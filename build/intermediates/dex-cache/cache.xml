@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/krishna/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_9c09889434456292456415d3fcf3442ad0db1a4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/krishna/Downloads/android-sensor-app-master1/app/libs/achartengine-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/pre-dexed/debug/achartengine-1.0.0_989a76112600e065988dd75cdecc306a082f1265.jar" />
+    </item>
+
+</items>

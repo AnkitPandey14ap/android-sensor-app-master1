@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/linaccelero.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/linaccelero.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/lightgraph.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/lightgraph.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/accelerograph.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/accelerograph.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/proximity.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/proximity.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/magnetograph.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/magnetograph.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/magneto.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/magneto.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/gyro.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/gyro.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/proximitygraph.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/proximitygraph.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/light.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/light.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/gyrograph.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/gyrograph.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/pressuregraph.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/pressuregraph.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/pressure.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/pressure.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/accelero.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/accelero.xml"
+    },
+    {
+        "merged": "/home/krishna/Downloads/android-sensor-app-master1/app/build/intermediates/res/merged/debug/layout/linaccelerograph.xml",
+        "source": "/home/krishna/Downloads/android-sensor-app-master1/app/src/main/res/layout/linaccelerograph.xml"
+    }
+]

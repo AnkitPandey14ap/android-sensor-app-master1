@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ebakyt.androidsensors"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.ebakyt.androidsensors.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.ebakyt.androidsensors.accelerometer.AcceleroMain" />
+        <activity android:name="com.ebakyt.androidsensors.accelerometer.AcceleroGraph" />
+        <activity android:name="com.ebakyt.androidsensors.gyroscope.GyroMain" />
+        <activity android:name="com.ebakyt.androidsensors.gyroscope.GyroGraph" />
+        <activity android:name="com.ebakyt.androidsensors.light.LightMain" />
+        <activity android:name="com.ebakyt.androidsensors.light.LightGraph" />
+        <activity android:name="com.ebakyt.androidsensors.acceleration.LinAcceleroMain" />
+        <activity android:name="com.ebakyt.androidsensors.acceleration.LinAcceleroGraph" />
+        <activity android:name="com.ebakyt.androidsensors.magnetometer.MagnetoMain" />
+        <activity android:name="com.ebakyt.androidsensors.magnetometer.MagnetoGraph" />
+        <activity android:name="com.ebakyt.androidsensors.pressure.PressureGraph" />
+        <activity android:name="com.ebakyt.androidsensors.proximity.ProximityMain" />
+        <activity android:name="com.ebakyt.androidsensors.proximity.ProximityGraph" />
+        <activity android:name="com.ebakyt.androidsensors.PressureMain" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
