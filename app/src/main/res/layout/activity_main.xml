@@ -81,28 +81,15 @@
         android:textColor="#fff" />
 
     <Button
-        android:id="@+id/btnPressure"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/btnLight"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginTop="10dp"
-        android:text="Pressure Sensor"
-        android:textColor="#fff" />
-
-    <Button
         android:id="@+id/btnProximity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/btnPressure"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="15dp"
         android:text="Proximity Sensor"
-        android:textColor="#fff" />
+        android:textColor="#fff"
+        android:layout_below="@+id/btnLight"
+        android:layout_alignLeft="@+id/btnLight"
+        android:layout_alignStart="@+id/btnLight" />
 
     <TextView
         android:id="@+id/TextView01"
